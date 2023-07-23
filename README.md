@@ -22,9 +22,9 @@
 
 <!--![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) -->
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=Debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=flat&logo=Fedora&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=flat&logo=Proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat&logo=VMware&logoColor=white)
 ## 📊 GitHub Stats:
