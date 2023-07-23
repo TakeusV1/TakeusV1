@@ -26,7 +26,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=Debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=flat&logo=Fedora&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=flat&logo=Proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat&logo==VMware&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat&logo=VMware&logoColor=white)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TakeusV1&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TakeusV1&theme=light&hide_border=false)
