@@ -12,14 +12,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2.svg?style=flat&logo=Bulma&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) 
 ![OVH](https://img.shields.io/badge/OVH-123F6D.svg?style=flat&logo=OVH&logoColor=white) 
 ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D.svg?style=flat&logo=Hetzner&logoColor=white)
-![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=Scaleway&logoColor=white)
+![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white)
 
 
 <!--![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) -->
