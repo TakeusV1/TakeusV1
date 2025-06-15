@@ -38,7 +38,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-%23c9d1d9?logo=pfsense&logoColor=blue)
 
-[![SadServers Level](https://img.shields.io/badge/SadServers-Learning-455A64?style=plastic&labelColor=FFC400&logo=githubcopilot&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TakeusV1&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TakeusV1&theme=light&hide_border=false)
