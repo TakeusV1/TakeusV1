@@ -44,6 +44,3 @@
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TakeusV1&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TakeusV1&theme=light&hide_border=false)
