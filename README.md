@@ -30,13 +30,18 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=Debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=flat&logo=Fedora&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Podman](https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=flat&logo=Proxmox&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078.svg?style=flat&logo=VMware&logoColor=white)
+![Nutanix](https://img.shields.io/badge/-Nutanix-024DA1?style=flat&logo=nutanix&logoColor=white)
 
 ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=flat&logo=ubiquiti&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/-pfSense-%23c9d1d9?logo=pfsense&logoColor=blue)
+
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 [![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-2962FF?style=plastic&labelColor=FFC400&logo=ansible&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 ## 📊 GitHub Stats:
